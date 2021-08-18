@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erzhan</h1>
-<h3 align="center">I’m a Software Engineer with industry experience building software solutions and with passion for learning.</h3>
+<h3 align="center">I’m a Software Engineer with industry experience building high quality software solutions and passion for learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erzhtor&label=Profile%20views&color=0e75b6&style=flat" alt="erzhtor" /> </p>
 
