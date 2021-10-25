@@ -9,7 +9,7 @@
 
 - 📝 I regulary write articles on: [https://erzhtor.com](https://erzhtor.com)
 
-- 💬 Ask me about: **JavaScript, TypeScript, HTML & CSS, React, Node.js, Docker**
+- 💬 Ask me about: **JavaScript, TypeScript, HTML & CSS, React, Node.js, Docker, Web Development, Browser Extension Development**
 
 - 📫 How to reach me: **erzhan.torokulov@gmail.com**
 
