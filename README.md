@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/erzhtor" target="blank"><img src="https://img.shields.io/twitter/follow/erzhtor?logo=twitter&style=for-the-badge" alt="erzhtor" /></a> </p>
 
-- 🔭 I’m currently working on [https://wordpal.ai](https://wordpal.ai)
+- 🔭 I’m currently working on [www.pageg.pt](https://www.pageg.pt/#pricing)
 
 - 📝 I regularly write articles on [https://erzhtor.com](https://erzhtor.com)
 
-- 💬 Ask me about **react, node.js, typescript, javascript, tailwind, browser extension api, html, css, docker, graphql**
+- 💬 Ask me about **react, node.js, typescript, javascript, langchainjs, llms, browser extension api, tailwind, html, css, docker, graphql**
 
 - 📄 Know about my experiences [https://erzhtor.com/about](https://erzhtor.com/about)
 
